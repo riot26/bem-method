@@ -75,7 +75,7 @@ project/
 
 Схема показывает подключение БЭМ-сущностей с разных уровней переопределения в сборку:
 
-![схема работы уровней переопределения](https://cdn.rawgit.com/innabelaya/bem-docs/fd92626a/pics/redefinition-level/redefinition-levels.svg)
+![схема работы уровней переопределения](https://cdn.rawgit.com/innabelaya/bem-docs/174977e4/pics/redefinition-level/redefinition-levels.svg)
 
 > Подробнее о [сборке БЭМ-проектов и порядке подключения БЭМ-сущностей в проект](https://ru.bem.info/methodology/build).
 
