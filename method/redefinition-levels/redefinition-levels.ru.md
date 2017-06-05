@@ -75,7 +75,7 @@ project/
 
 Схема показывает подключение БЭМ-сущностей с разных уровней переопределения в сборку:
 
-![схема работы уровней переопределения](https://github.com/innabelaya/bem-docs/blob/master/pics/redefinition-level/levels.png)
+![схема работы уровней переопределения](https://cdn.rawgit.com/innabelaya/bem-docs/fd92626a/pics/redefinition-level/redefinition-levels.svg)
 
 > Подробнее о [сборке БЭМ-проектов и порядке подключения БЭМ-сущностей в проект](https://ru.bem.info/methodology/build).
 
@@ -198,7 +198,7 @@ project/
 ```
 Новый вид кнопки:
 
-![Переопределенная кнопка](https://github.com/innabelaya/bem-docs/blob/master/pics/redefinition-level/button-redefined.png)
+![Переопределенная кнопка](https://cdn.rawgit.com/innabelaya/bem-docs/fd92626a/pics/redefinition-level/button-redefined.svg)
 
 В результате:
 
