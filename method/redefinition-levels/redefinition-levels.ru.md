@@ -141,7 +141,7 @@ CSS-реализация:
 
 Отображение:
 
-![button-default](https://github.com/innabelaya/bem-docs/blob/master/pics/redefinition-level/button-default.png)
+![button-default](https://cdn.rawgit.com/innabelaya/bem-docs/27499359/pics/redefinition-level/button-default.svg)
 
 Внесем изменения:
 
